@@ -1,3 +1,9 @@
+---
+layout: page
+title: SparkSQL
+permalink: /SparkSQL/
+---
+
 ## 簡單介紹SparkSQL
 
 SQL是擷取資料的語言
